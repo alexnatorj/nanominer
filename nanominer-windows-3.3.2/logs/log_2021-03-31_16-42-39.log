@@ -1,0 +1,69 @@
+2021-Mar-31 16:42:39:                                    _                 
+2021-Mar-31 16:42:39:  _ __   __ _ _ __   ___  _ __ ___ (_)_ __   ___ _ __ 
+2021-Mar-31 16:42:39: | '_ \ / _` | '_ \ / _ \| '_ ` _ \| | '_ \ / _ \ '__|
+2021-Mar-31 16:42:39: | | | | (_| | | | | (_) | | | | | | | | | |  __/ |   
+2021-Mar-31 16:42:39: |_| |_|\__,_|_| |_|\___/|_| |_| |_|_|_| |_|\___|_|   
+2021-Mar-31 16:42:39: 
+2021-Mar-31 16:42:39: Version 3.3.2
+2021-Mar-31 16:42:39: Started EthMan server on port 3333 without a password (read-only mode).
+2021-Mar-31 16:42:39: Started web interface on port 9090 without a password.
+2021-Mar-31 16:42:39: CUDA driver version is 11.2, runtime version is 10.0
+2021-Mar-31 16:42:40: Single device detected
+2021-Mar-31 16:42:40: GPU 0 PCI 01:00.0, Platform: CUDA, Name: GeForce GTX 1070, 8192 MB available
+2021-Mar-31 16:42:40: -----------------Autolykos:-----------------
+2021-Mar-31 16:42:40: Currency: Ergo
+2021-Mar-31 16:42:40: Wallet: 9hwmd9EfxWcac7KrTEpbfsSje7twG7RL7HTRiEZzVcPbiHDG9st
+2021-Mar-31 16:42:40: Rig name: Grumpy_128c82f7
+2021-Mar-31 16:42:40: Email was not set.
+2021-Mar-31 16:42:40: Hashrate threshold to restart miner is not set
+2021-Mar-31 16:42:40: Added pool: ergo-us-east1.nanopool.org:11433
+2021-Mar-31 16:42:40: Added pool: ergo-us-west1.nanopool.org:11433
+2021-Mar-31 16:42:40: Added pool: ergo-eu1.nanopool.org:11433
+2021-Mar-31 16:42:40: Added pool: ergo-eu2.nanopool.org:11433
+2021-Mar-31 16:42:40: Added pool: ergo-jp1.nanopool.org:11433
+2021-Mar-31 16:42:40: Added pool: ergo-asia1.nanopool.org:11433
+2021-Mar-31 16:42:40: Added pool: ergo-au1.nanopool.org:11433
+2021-Mar-31 16:42:40: Auto pool sorting is enabled
+2021-Mar-31 16:42:40: Using all GPU devices
+2021-Mar-31 16:42:40: ------------------Zilliqa:------------------
+2021-Mar-31 16:42:40: Currency: Zilliqa
+2021-Mar-31 16:42:40: Wallet: zil1c8ud9ejryyyngkuz7lh84n6r4eg6zcfs7nwatp
+2021-Mar-31 16:42:40: Rig name: Grumpy_128c82f7
+2021-Mar-31 16:42:40: Email was not set.
+2021-Mar-31 16:42:40: Hashrate threshold to restart miner is not set
+2021-Mar-31 16:42:40: Added pool: eu.ezil.me:5555
+2021-Mar-31 16:42:40: Added pool: us-east.ezil.me:5555
+2021-Mar-31 16:42:40: Added pool: us-west.ezil.me:5555
+2021-Mar-31 16:42:40: Added pool: asia.ezil.me:5555
+2021-Mar-31 16:42:40: Auto pool sorting is disabled
+2021-Mar-31 16:42:40: -------------Common parameters:-------------
+2021-Mar-31 16:42:40: Log path: ./logs/
+2021-Mar-31 16:42:40: Log is written to file
+2021-Mar-31 16:42:40: GPU watchdog is enabled
+2021-Mar-31 16:42:40: Never calling reboot.bat (always restarting the miner in case of errors). 
+2021-Mar-31 16:42:40: Zilliqa epoch: 0
+2021-Mar-31 16:42:40: Setting up algorithm: Autolykos
+2021-Mar-31 16:42:40: Setting up algorithm: Zilliqa
+2021-Mar-31 16:42:41: Connecting to pools...
+2021-Mar-31 16:42:41: Connected to pool: ergo-us-east1.nanopool.org:11433 | IP: 144.217.14.109 | ping: 502 ms.
+2021-Mar-31 16:42:42: New job from ergo-us-east1.nanopool.org:11433 | share difficulty = 2 GH
+2021-Mar-31 16:42:42: Ergo - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:02
+2021-Mar-31 16:42:42: GPU0 t=48°C power 38.27W. Total power: 38.27W
+2021-Mar-31 16:42:44: Zilliqa - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:03
+2021-Mar-31 16:42:44: GPU0 t=58°C power 122.24W. Total power: 122.24W
+2021-Mar-31 16:42:46: GPU0: 2048 MB data generated in 3.69 seconds
+2021-Mar-31 16:42:49: GPU0: 1023 MB DAG generated in 2.38 seconds
+2021-Mar-31 16:43:13: Ergo - Total speed: 44.511 MH/s, Total shares: 0 Rejected: 0, Time: 00:33
+2021-Mar-31 16:43:13: Ergo last 10 min - Total: 44.511 MH/s.
+2021-Mar-31 16:43:23: New job from ergo-us-east1.nanopool.org:11433
+2021-Mar-31 16:43:23: Ergo - Total speed: 44.485 MH/s, Total shares: 0 Rejected: 0, Time: 00:43
+2021-Mar-31 16:43:23: GPU0 t=66°C power 99.65W. Total power: 99.65W
+2021-Mar-31 16:43:55: Ergo - Total speed: 44.488 MH/s, Total shares: 0 Rejected: 0, Time: 01:15
+2021-Mar-31 16:44:03: Ergo - SHARE FOUND (GPU: 0, nonce: 0xfdf1f97a9e7acbda).
+2021-Mar-31 16:44:03: Ergo: share accepted (216 ms)!
+2021-Mar-31 16:44:23: Ergo - SHARE FOUND (GPU: 0, nonce: 0xfdf1f97ad506f8a8).
+2021-Mar-31 16:44:24: Ergo: share accepted (216 ms)!
+2021-Mar-31 16:44:24: New job from ergo-us-east1.nanopool.org:11433
+2021-Mar-31 16:44:24: Ergo - Total speed: 44.454 MH/s, Total shares: 2 Rejected: 0, Time: 01:44
+2021-Mar-31 16:44:24: GPU0 t=75°C power 103.52W. Total power: 103.52W
+2021-Mar-31 16:44:28: Terminating, please wait ...
